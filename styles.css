@@ -1,6 +1,9 @@
-body {
-  font-size: medium;
-  background-color: aliceblue;
-  margin: 20px;
-  box-sizing: border-box;
+.center {
+  padding-top: 70px;
+  margin: auto;
+  text-align: center;
+}
+.btn {
+  margin: auto;
+  text-align: center;
 }
